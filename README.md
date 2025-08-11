@@ -18,7 +18,7 @@
 ## 📌 Featured Repositories
 
 - [**OmniInt**](https://github.com/sharkymew/OmniInt): A high-precision integer class using modern C++ features like modules.
-- [**AutoAim-Lab**](https://github.com/sharkymew/RoboMaster-Open-Source-Project): A open-source-project for RMYC.  
+- [**RoboMaster-Open-Source-Project**](https://github.com/sharkymew/RoboMaster-Open-Source-Project): A open-source-project for RMYC.  
 
 ---
 
