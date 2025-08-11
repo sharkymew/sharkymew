@@ -17,9 +17,8 @@
 
 ## 📌 Featured Repositories
 
-- [**OmniInt**](https://github.com/yourusername/OmniInt): A high-precision integer class using modern C++ features like modules.
-- [**AutoAim-Lab**](https://github.com/yourusername/AutoAim-Lab): Experimental aimbot framework for algorithm learning and image recognition.  
-- [**PhilosophyNotes**](https://github.com/yourusername/PhilosophyNotes): Thoughts and insights inspired by *A History of Western Philosophy*.
+- [**OmniInt**](https://github.com/sharkymew/OmniInt): A high-precision integer class using modern C++ features like modules.
+- [**AutoAim-Lab**]([https://github.com/yourusername/AutoAim-Lab](https://github.com/sharkymew/RoboMaster-Open-Source-Project)): A open-source-project for RMYC.  
 
 ---
 
