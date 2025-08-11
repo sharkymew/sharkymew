@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm SharkyMew!
 
-<!--
-**sharkymew/sharkymew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Developer Program](https://img.shields.io/badge/GitHub%20Developer-Member-blueviolet?logo=github)
 
-Here are some ideas to get you started:
+🎓 A passionate high school student diving deep into the world of **Computer Science**, especially **Artificial Intelligence**.  
+🚀 Currently learning **C++**, **Python**, and exploring the frontiers of open-source development.  
+🎮 Love building high-precision computing tools and experimenting with interesting projects like self-aiming systems (for educational purposes, of course 👀).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+- 🔤 Languages: `C++`, `Python`
+- 🛠️ Tools: `Clang++`, `VS Code`, `Git`
+- 📦 Exploring: `C++20 modules`, `LLM`, `macOS Toolchains`
+
+---
+
+## 📌 Featured Repositories
+
+- [**OmniInt**](https://github.com/yourusername/OmniInt): A high-precision integer class using modern C++ features like modules.
+- [**AutoAim-Lab**](https://github.com/yourusername/AutoAim-Lab): Experimental aimbot framework for algorithm learning and image recognition.  
+- [**PhilosophyNotes**](https://github.com/yourusername/PhilosophyNotes): Thoughts and insights inspired by *A History of Western Philosophy*.
+
+---
+
+## 🎵 Side Interests
+
+- 📷 Photography enthusiast, especially landscapes and city lights.
+- 🌌 Fan of anime like *Plastic Memories*, *IGER×DRAGON!*, *とある科学の超電磁砲*
+- 🌌 Fan of games like *Honkai Impact 3rd*, *Honkai:StarRail*, *NieR:Automata*
+- 💬 Enjoy pondering philosophical questions, like the paradoxes of Zeno and the meaning of consciousness.
+
+---
+
+## 📫 Let's Connect
+
+- 💌 Email: [sharkymew@icloud.com]
+
+---
+
+> Thanks for stopping by! May all the beauty be blessed 🌠
