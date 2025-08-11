@@ -18,14 +18,14 @@
 ## 📌 Featured Repositories
 
 - [**OmniInt**](https://github.com/sharkymew/OmniInt): A high-precision integer class using modern C++ features like modules.
-- [**AutoAim-Lab**]([https://github.com/yourusername/AutoAim-Lab](https://github.com/sharkymew/RoboMaster-Open-Source-Project)): A open-source-project for RMYC.  
+- [**AutoAim-Lab**](https://github.com/sharkymew/RoboMaster-Open-Source-Project): A open-source-project for RMYC.  
 
 ---
 
 ## 🎵 Side Interests
 
 - 📷 Photography enthusiast, especially landscapes and city lights.
-- 🌌 Fan of anime like *Plastic Memories*, *IGER×DRAGON!*, *とある科学の超電磁砲*
+- 🌌 Fan of anime like *Plastic Memories*, *TIGER×DRAGON!*, *とある科学の超電磁砲*
 - 🌌 Fan of games like *Honkai Impact 3rd*, *Honkai:StarRail*, *NieR:Automata*
 - 💬 Enjoy pondering philosophical questions, like the paradoxes of Zeno and the meaning of consciousness.
 
@@ -33,8 +33,8 @@
 
 ## 📫 Let's Connect
 
-- 💌 Email: [sharkymew@icloud.com]
-
+- Email: [sharkymew@icloud.com]
+- Live in China Mainland
 ---
 
 > Thanks for stopping by! May all the beauty be blessed 🌠
