@@ -22,15 +22,6 @@
 
 ---
 
-## 🎵 Side Interests
-
-- 📷 Photography enthusiast, especially landscapes and city lights.
-- 🌌 Fan of anime like *Plastic Memories*, *TIGER×DRAGON!*, *とある科学の超電磁砲*
-- 🌌 Fan of games like *Honkai Impact 3rd*, *Honkai:StarRail*, *NieR:Automata*
-- 💬 Enjoy pondering philosophical questions, like the paradoxes of Zeno and the meaning of consciousness.
-
----
-
 ## 📫 Let's Connect
 
 - Email: [sharkymew@icloud.com]
