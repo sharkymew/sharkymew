@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm SharkyMew!
+# Hi there, I'm SharkyMew!
 
 ![Developer Program](https://img.shields.io/badge/GitHub%20Developer-Member-blueviolet?logo=github)
 
@@ -10,8 +10,7 @@ Love building high-precision computing tools and experimenting with interesting 
 
 ## Tech Stack
 - Languages: `C++`, `Python`
-- 🛠️ Tools: `Clang++`, `VS Code`, `Git`
-- Exploring: `Swift Development`, `iOS Application Development`
+- Exploring: `Swift Development`, `iOS Application Development`, `Machine Learning`
 
 ---
 
@@ -22,7 +21,7 @@ Love building high-precision computing tools and experimenting with interesting 
 
 ---
 
-## et's Connect
+## Let's Connect
 
 - Email: [sharkymew@icloud.com]
 - Live in China Mainland
