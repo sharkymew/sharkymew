@@ -24,7 +24,6 @@ Love building high-precision computing tools and experimenting with interesting 
 ## Let's Connect
 
 - Email: [sharkymew@icloud.com]
-- Live in China Mainland
 ---
 
 > Thanks for stopping by! May all the beauty be blessed!
